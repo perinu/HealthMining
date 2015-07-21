@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">HealthMining</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_profile_info">Profile Info</string>
+    <string name="title_activity_main">Main Activity</string>
+
+    <!-- ****** Texts Displayed in ProfileInfo Activity -->
+    <string name="pi_button_saveMyProfileInfo">Save My Profile Info</string>
+    <string name="pi_text_disclaimerInfo">Here disclaimer info will be displayed!</string>
+
+    <!--*************************** Toast Messages ***************************-->
+    <string name="toast_msg_mul_conn_failed">Multiple Connection Attempts Failed!</string>
+    <string name="toast_msg_unrecoverable_error">An unrecoverable error occurred!</string>
+    <string name="toast_msg_reconnect">Will try to reconnect in few seconds&#8230;</string>
+    <string name="toast_msg_networking_error">Networking Error! Check out your connectivity&#8230;</string>
+    <string name="toast_msg_no_internet_conn">No Internet Connection! Please provide a connection!</string>
+
+</resources>

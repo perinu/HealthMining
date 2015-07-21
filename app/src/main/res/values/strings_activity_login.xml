@@ -1,0 +1,5 @@
+<resources>
+
+    <!--*************************** Toast Messages ***************************-->
+    <string name="toast_msg_user_canceled_login">Login Canceled!</string>
+</resources>

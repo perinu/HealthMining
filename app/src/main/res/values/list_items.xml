@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="profile_info_list">
+        <item>Distance Units</item>
+        <item>Gender</item>
+        <item>Weight</item>
+        <item>Birth Date</item>
+    </string-array>
+
+</resources>
